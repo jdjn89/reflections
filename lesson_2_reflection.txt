@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Creates meta-structures
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	You can choose which files you want to add to the staging area and there fore it adds a safety feature to your commits. You can check all the files added to the staging area and then decide to commit these files after reviewing them.
+
+	
